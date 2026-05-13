@@ -1,0 +1,60 @@
+inherited FrameRectAsk: TFrameRectAsk
+  Height = 278
+  Width = 353
+  ClientHeight = 278
+  ClientWidth = 353
+  OnMouseDown = nil
+  DesignLeft = 276
+  DesignTop = 146
+  inherited panBot: TPanel
+    Top = 252
+    Width = 353
+    ClientWidth = 353
+    inherited butPrevPg: TButton
+      OnClick = butPrevPgClick
+    end
+    inherited butNextPg: TButton
+      Left = 277
+      OnClick = butNextPgClick
+    end
+    object ChckSC: TCheckBox[2]
+      Left = 256
+      Height = 24
+      Top = 1
+      Width = 21
+      Align = alRight
+      Checked = True
+      State = cbChecked
+      TabOrder = 2
+      OnChange = ChckSCChange
+    end
+  end
+  inherited StatusBar1: TStatusBar
+    Height = 20
+    Top = 232
+    Width = 353
+  end
+  object scrlbx1: TScrollBox[2]
+    Left = 0
+    Height = 232
+    Top = 0
+    Width = 353
+    HorzScrollBar.Page = 320
+    VertScrollBar.Page = 214
+    Align = alClient
+    ClientHeight = 230
+    ClientWidth = 351
+    TabOrder = 1
+    object PanShWorkArea: TPanel
+      Left = 0
+      Height = 214
+      Top = 0
+      Width = 320
+      Align = alCustom
+      Caption = 'AAAAAAAAA'
+      DoubleBuffered = False
+      ParentDoubleBuffered = False
+      TabOrder = 0
+    end
+  end
+end

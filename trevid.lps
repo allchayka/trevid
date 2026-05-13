@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="trevid.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="12" Y="19"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="rImgss.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="5342"/>
+        <CursorPos X="9" Y="5345"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="tren.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="427"/>
+        <CursorPos X="3" Y="430"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unask.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unAsk"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="193"/>
+        <CursorPos Y="208"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unformsubsasks.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormSubsAsks"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unFormSubsAsks"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="3" Y="15"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unformtasks.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormTasks"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unFormTasks"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="50"/>
+        <CursorPos X="43" Y="59"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unframeask.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrameAsk"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UnitName Value="unFrameAsk"/>
+        <EditorIndex Value="12"/>
+        <TopLine Value="50"/>
+        <CursorPos Y="58"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unframerectask.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrameRectAsk"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UnitName Value="unFrameRectAsk"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="89"/>
+        <CursorPos X="11" Y="100"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unframevideo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrameVideo"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UnitName Value="unFrameVideo"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="105"/>
+        <CursorPos X="23" Y="138"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unfrmjorn.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmJorn"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unFrmJorn"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="421"/>
+        <CursorPos X="18" Y="444"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="UnOptions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="17" Y="37"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unRecords.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="untreetopic.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UnTreeTopic"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="38"/>
+        <CursorPos X="21" Y="50"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="utilitiesdb.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UtilitiesDB"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="170"/>
+        <CursorPos X="63" Y="197"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="Utils.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="7"/>
+        <CursorPos X="12" Y="18"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="XML2HTML.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <CursorPos X="32" Y="65"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unformstarteditor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormStartEditor"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unFormStartEditor"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="44"/>
+        <CursorPos X="17" Y="48"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unframetopic.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrameTopic"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Frame"/>
+        <UnitName Value="UnFrameTopic"/>
+        <EditorIndex Value="11"/>
+        <TopLine Value="21"/>
+        <CursorPos X="9" Y="24"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unformplay.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormPlay"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UnFormPlay"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="353"/>
+        <CursorPos X="13" Y="377"/>
+        <UsageCount Value="201"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unformedz.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormEdZ"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unFormEdZ"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="36" Y="10"/>
+        <UsageCount Value="201"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unfrmedlstans.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmEdLstAns"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unFrmEdLstAns"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="38"/>
+        <CursorPos X="82" Y="59"/>
+        <UsageCount Value="224"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="SizeControl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2135"/>
+        <CursorPos Y="2150"/>
+        <UsageCount Value="203"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="1272"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unformnewsc.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormNewSc"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unFormNewSc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="24"/>
+        <CursorPos X="38" Y="48"/>
+        <UsageCount Value="1258"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unmessage.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="unMessage"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="16" Y="11"/>
+        <UsageCount Value="1233"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\usr\share\lazarus\3.4.0\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2136"/>
+        <CursorPos Y="2156"/>
+        <UsageCount Value="485"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\jvcllaz\run\JvgLst\JvgDigits.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="262"/>
+        <CursorPos X="21" Y="226"/>
+        <UsageCount Value="428"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\jvcllaz\run\JvgLst\JvgListBox.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="26"/>
+        <CursorPos X="47" Y="40"/>
+        <UsageCount Value="484"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\usr\share\lazarus\4.2.0\lcl\include\customform.inc"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="944"/>
+        <CursorPos Y="960"/>
+        <UsageCount Value="200"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\..\..\usr\share\lazarus\4.2.0\components\lazutils\laztracer.pas"/>
+        <UnitName Value="LazTracer"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="42"/>
+        <CursorPos Y="58"/>
+        <UsageCount Value="127"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5443" TopLine="5429"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5445" TopLine="5429"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5444" TopLine="5429"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5446" TopLine="5435"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5447" TopLine="5435"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5448" TopLine="5435"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5449" TopLine="5435"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5450" TopLine="5435"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5453" TopLine="5438"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5250" TopLine="5234"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5251" TopLine="5234"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5252" TopLine="5234"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5253" TopLine="5234"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5255" TopLine="5234"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5256" TopLine="5234"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5258" TopLine="5234"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5259" TopLine="5247"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5261" TopLine="5253"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5342" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5343" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5344" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5345" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5346" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5347" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5348" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5349" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5350" TopLine="5327"/>
+      </Position>
+      <Position>
+        <Filename Value="rImgss.pas"/>
+        <Caret Line="5345" Column="9" TopLine="5342"/>
+      </Position>
+      <Position>
+        <Filename Value="unask.pas"/>
+        <Caret Line="369" TopLine="354"/>
+      </Position>
+      <Position>
+        <Filename Value="unask.pas"/>
+        <Caret Line="208" TopLine="193"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\JvgLst\JvgListBox.pas"/>
+        <Line Value="524"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\JvgLst\JvgListBox.pas"/>
+        <Line Value="513"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="SizeControl.pas"/>
+        <Line Value="848"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="rImgss.pas"/>
+        <Line Value="5291"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unask.pas"/>
+        <Line Value="369"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="unask.pas"/>
+        <Line Value="208"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="n"/>
+      </Item>
+      <Item>
+        <Expression Value="i"/>
+      </Item>
+      <Item>
+        <Expression Value="BmpInfo"/>
+      </Item>
+      <Item>
+        <Expression Value="FBackgroundColor"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

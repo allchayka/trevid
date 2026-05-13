@@ -1,0 +1,78 @@
+object FormNewSc: TFormNewSc
+  Left = 361
+  Height = 175
+  Top = 145
+  Width = 320
+  Caption = 'Ввод нового тестируемого'
+  ClientHeight = 175
+  ClientWidth = 320
+  Position = poDesktopCenter
+  LCLVersion = '4.2.0.0'
+  OnActivate = FormActivate
+  object Label1: TLabel
+    Left = 39
+    Height = 17
+    Top = 36
+    Width = 65
+    Alignment = taRightJustify
+    AutoSize = False
+    Caption = 'ФИО:'
+  end
+  object Label2: TLabel
+    Left = 43
+    Height = 17
+    Top = 60
+    Width = 65
+    Alignment = taRightJustify
+    AutoSize = False
+    Caption = 'Должность:'
+  end
+  object Label3: TLabel
+    Left = 43
+    Height = 17
+    Top = 89
+    Width = 65
+    Alignment = taRightJustify
+    AutoSize = False
+    Caption = 'Группа:'
+  end
+  object Edfio: TEdit
+    Left = 111
+    Height = 23
+    Top = 32
+    Width = 157
+    TabOrder = 0
+  end
+  object EdDolg: TEdit
+    Left = 111
+    Height = 23
+    Top = 60
+    Width = 157
+    TabOrder = 1
+  end
+  object EdGRP: TEdit
+    Left = 111
+    Height = 23
+    Top = 89
+    Width = 157
+    TabOrder = 2
+  end
+  object Button1: TButton
+    Left = 40
+    Height = 29
+    Top = 120
+    Width = 97
+    Caption = 'Добавить'
+    TabOrder = 3
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Left = 180
+    Height = 29
+    Top = 120
+    Width = 93
+    Caption = 'Отменить'
+    TabOrder = 4
+    OnClick = Button2Click
+  end
+end

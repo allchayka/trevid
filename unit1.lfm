@@ -1,0 +1,17 @@
+object Form1: TForm1
+  Left = 316
+  Height = 240
+  Top = 145
+  Width = 320
+  Caption = 'Form1'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '4.2.0.0'
+  object JvHTLabel1: TJvHTLabel
+    Left = 24
+    Height = 16
+    Top = 15
+    Width = 60
+    Caption = 'JvHTLabel1'
+  end
+end

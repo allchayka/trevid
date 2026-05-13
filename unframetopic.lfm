@@ -1,0 +1,66 @@
+object FrameTopic: TFrameTopic
+  Left = 0
+  Height = 339
+  Top = 0
+  Width = 435
+  ClientHeight = 339
+  ClientWidth = 435
+  TabOrder = 0
+  DesignLeft = 404
+  DesignTop = 326
+  object LstTopic: TJvgListBox
+    Left = 0
+    Height = 339
+    Top = 0
+    Width = 435
+    Align = alClient
+    Color = clSkyBlue
+    Items.Strings = (
+      '!23243234 лвоап'
+      'Qwerty fgh f'
+      'QWQвэыщрпо ыврщпвщзЩВЫЩЫВАОЛЩЫ ЩШУВОЫЩОА яючсюмбЬЮ'
+    )
+    ParentShowHint = False
+    ShowHint = True
+    TabOrder = 0
+    OnDblClick = LstTopicDblClick
+    OnMouseMove = LstTopicMouseMove
+    WallpaperOption = fwlTile
+    ItemStyle.Gradient.Active = False
+    ItemStyle.Gradient.Orientation = fgdHorizontal
+    ItemStyle.Color = clAqua
+    ItemStyle.DelineateColor = clBlack
+    ItemStyle.Font.CharSet = RUSSIAN_CHARSET
+    ItemStyle.Font.Height = -24
+    ItemStyle.Font.Name = 'Times New Roman'
+    ItemStyle.Font.Pitch = fpVariable
+    ItemStyle.Font.Quality = fqDraft
+    ItemStyle.Font.Style = [fsItalic]
+    ItemStyle.Bevel.Inner = bvLowered
+    ItemStyle.Bevel.Outer = bvRaised
+    ItemStyle.Bevel.Bold = False
+    ItemStyle.TextStyle = fstRaised
+    ItemSelStyle.Gradient.FromColor = clSkyBlue
+    ItemSelStyle.Gradient.Active = False
+    ItemSelStyle.Gradient.Orientation = fgdVertConvergent
+    ItemSelStyle.Color = clSkyBlue
+    ItemSelStyle.DelineateColor = clBlack
+    ItemSelStyle.Font.CharSet = RUSSIAN_CHARSET
+    ItemSelStyle.Font.Height = -24
+    ItemSelStyle.Font.Name = 'Times New Roman'
+    ItemSelStyle.Font.Pitch = fpVariable
+    ItemSelStyle.Font.Quality = fqDraft
+    ItemSelStyle.Font.Style = [fsItalic]
+    ItemSelStyle.Bevel.Inner = bvRaised
+    ItemSelStyle.Bevel.Outer = bvLowered
+    ItemSelStyle.Bevel.Bold = False
+    ItemSelStyle.TextStyle = fstRaised
+    TextAlign.Horizontal = fhaCenter
+    TextAlign.Vertical = fvaCenter
+    TransparentColor = clOlive
+    HotTrackColor = clRed
+    Options = [fboExcludeGlyphs, fboHotTrack, fboWordWrap]
+    ChangeGlyphColor.FromColor = clBlack
+    ChangeGlyphColor.ToColor = clWhite
+  end
+end

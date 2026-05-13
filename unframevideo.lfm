@@ -1,0 +1,175 @@
+inherited FrameVideo: TFrameVideo
+  Height = 389
+  Width = 602
+  ClientHeight = 389
+  ClientWidth = 602
+  DesignLeft = 322
+  DesignTop = 167
+  inherited panBot: TPanel
+    Top = 363
+    Width = 602
+    Caption = 'panBot'
+    ClientWidth = 602
+    TabOrder = 1
+    inherited butPrevPg: TButton
+      OnClick = nil
+    end
+    inherited butNextPg: TButton
+      Left = 526
+      OnClick = butNextPgClick
+    end
+  end
+  object Panel2: TPanel[1]
+    Left = 464
+    Height = 363
+    Top = 0
+    Width = 138
+    Align = alRight
+    Caption = 'Panel2'
+    ClientHeight = 363
+    ClientWidth = 138
+    TabOrder = 0
+    object Panel4: TPanel
+      Left = 1
+      Height = 138
+      Top = 24
+      Width = 136
+      Align = alTop
+      Caption = 'Panel4'
+      ClientHeight = 138
+      ClientWidth = 136
+      TabOrder = 0
+      object lstFragments: TListBox
+        Left = 1
+        Height = 136
+        Top = 1
+        Width = 134
+        Align = alClient
+        ItemHeight = 0
+        OnClick = lstFragmentsClick
+        TabOrder = 0
+        TopIndex = -1
+      end
+    end
+    object Splitter2: TSplitter
+      Cursor = crVSplit
+      Left = 1
+      Height = 5
+      Top = 162
+      Width = 136
+      Align = alTop
+      ResizeAnchor = akTop
+    end
+    object Panel5: TPanel
+      Left = 1
+      Height = 195
+      Top = 167
+      Width = 136
+      Align = alClient
+      ClientHeight = 195
+      ClientWidth = 136
+      TabOrder = 2
+      object lstMark: TListBox
+        Left = 1
+        Height = 135
+        Top = 1
+        Width = 134
+        Align = alClient
+        ItemHeight = 0
+        OnClick = lstMarkClick
+        OnDblClick = lstMarkDblClick
+        TabOrder = 0
+        TopIndex = -1
+      end
+      object PanInfoMark: TPanel
+        Left = 1
+        Height = 58
+        Top = 136
+        Width = 134
+        Align = alBottom
+        Alignment = taLeftJustify
+        Font.CharSet = RUSSIAN_CHARSET
+        Font.Height = -11
+        Font.Pitch = fpVariable
+        Font.Quality = fqDraft
+        ParentFont = False
+        TabOrder = 1
+        Wordwrap = True
+      end
+    end
+    object panCntrl: TPanel
+      Left = 1
+      Height = 23
+      Top = 1
+      Width = 136
+      Align = alTop
+      ClientHeight = 23
+      ClientWidth = 136
+      TabOrder = 3
+      object Button1: TButton
+        Left = 1
+        Height = 21
+        Top = 1
+        Width = 27
+        Align = alLeft
+        Caption = '>'
+        OnClick = Button1Click
+        TabOrder = 0
+      end
+      object Button2: TButton
+        Left = 28
+        Height = 21
+        Top = 1
+        Width = 24
+        Align = alLeft
+        Caption = '||'
+        OnClick = Button2Click
+        TabOrder = 1
+      end
+      object butResume: TButton
+        Left = 52
+        Height = 21
+        Top = 1
+        Width = 23
+        Align = alLeft
+        Caption = '>'
+        OnClick = butResumeClick
+        TabOrder = 2
+      end
+    end
+  end
+  object Splitter1: TSplitter[2]
+    Left = 459
+    Height = 363
+    Top = 0
+    Width = 5
+    Align = alRight
+    ResizeAnchor = akRight
+  end
+  object PanShWorkArea: TPanel[3]
+    Left = 0
+    Height = 363
+    Top = 0
+    Width = 459
+    Align = alClient
+    Caption = 'Video'
+    ClientHeight = 363
+    ClientWidth = 459
+    TabOrder = 2
+    Wordwrap = True
+    object PasLibVlcPlayer1: TPasLibVlcPlayer
+      Left = 1
+      Height = 361
+      Top = 1
+      Width = 457
+      Align = alClient
+      BevelOuter = bvNone
+      FullRepaint = False
+      ParentBackground = False
+      ParentColor = False
+      TabOrder = 0
+      SnapShotFmt = 'png'
+      MouseEventsHandler = mehComponent
+    end
+  end
+end
